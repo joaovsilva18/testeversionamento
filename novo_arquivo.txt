@@ -1,0 +1,6 @@
+criei uma nova ramificação, 
+conhecida como "testelet"
+Então, além desse arquivo
+pretendo modificar o index.html
+e criar um pull request para comparar antes de mandar na main
+e fundir as duas usando git merge!
